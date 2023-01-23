@@ -41,6 +41,10 @@ O Habits é um app para ajudar a rastrear os hábitos.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/hw0MsdtVvJoc0l0zNBAxUs/Habits-(e)-(Community)?node-id=75%3A128&t=c5CgqK7OurRGW3AP-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 📚 Material Complementar
+
+Acesse o Notion para ter acesso ao conteúdo complementar através [DESSE LINK](https://efficient-sloth-d85.notion.site/NLW-11-Setup-4a8623c9e0bf415dbd5fdbe79f387a6e)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
